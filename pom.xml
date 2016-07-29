@@ -5,6 +5,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <properties>
+        <kevinIsCool>true</kevinIsCool>
         <jgitflow.version>1.0-m5.1</jgitflow.version>
         <pushFeatures>false</pushFeatures>
         <pushReleases>true</pushReleases>
